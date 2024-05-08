@@ -1,4 +1,4 @@
-#   Sample war application using maven triggering the build pipeline testing
+#   Sample war application using maven triggering the build pipeline testing e2e
 
 1. Navigate to the directory and run the below maven command to build the wagr file as
 ```nhh
